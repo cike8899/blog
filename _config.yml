@@ -78,11 +78,13 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+
 # comment
 duoshuo:
   enable: true
   shortname: your-duoshuo-shortname
+
 # menu
 menu:
   home: /
