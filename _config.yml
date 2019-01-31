@@ -81,9 +81,6 @@ deploy:
   type: git
 
 # comment
-duoshuo:
-  enable: true
-  shortname: your-duoshuo-shortname
 
 # menu
 menu:
