@@ -81,6 +81,7 @@ deploy:
   type: git
 
 # comment
+# disqus_shortname: your-disqus-shortname
 
 # menu
 menu:
